@@ -1,6 +1,7 @@
 body{
     margin: 0px;
 }
+
 .sidediv{
     background-color: #CCCCFF;
     position:fixed;
@@ -20,6 +21,7 @@ body{
     padding: 20px;
     color: #454545;
     display: flex;
+    align-items: center;
 }
 
 .contentdiv{
